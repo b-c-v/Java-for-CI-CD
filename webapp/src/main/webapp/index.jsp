@@ -83,7 +83,7 @@
 <body>
   <form action="action_page.php">
     <div class="container">
-      <p align="left"><img src="logo_white_blue.svg" alt="" width="80" height="28" /></p>
+      <p align="center"><img src="logo_white_blue.svg" alt="" width="80" height="28" /></p>
       <h1>Registration form in the CI/CD project for DevOps</h1>
       <p>Please fill in this form to create an account.</p>
       <hr>
