@@ -7,7 +7,7 @@
   <style type="text/css">
     html {
       font-family: Consolas, Verdana, Arial, Helvetica, sans-serif;
-      background-color: rgb(118, 2, 216);
+      background-color: rgb(118, 205, 216);
       font-size: 18px;
     }
 
